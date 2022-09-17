@@ -1,0 +1,41 @@
+body {
+  font-size: 22px;
+}
+main {
+  font-family: Helvetica;
+}
+p {
+  color: black;
+}
+
+b {
+  color: purple;
+}
+
+.a2 {
+  color: black;
+}
+
+h1,
+h2 {
+  font-size: 30px;
+  font: bold;
+  color: blue;
+}
+
+.highlight {
+  font-family: Helvetica;
+  font-size: 30px;
+  font: bold;
+  color: black;
+}
+th {
+  color: black;
+  font: Arial bold;
+}
+table,
+th,
+td {
+  border: 1px solid;
+  width: 40%;
+}
